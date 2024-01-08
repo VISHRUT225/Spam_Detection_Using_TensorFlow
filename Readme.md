@@ -10,10 +10,10 @@ The primary goal of this project is to develop an effective machine learning mod
 The [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset) is used for this study. It includes labeled email texts as spam or ham, forming the basis for training and evaluating the machine learning model.
 
 ## 📂 Project Structure
-- **code/:** Contains the Jupyter Notebook (Spam_Detection.ipynb) with code for data cleaning, preprocessing, model development, and evaluation.
-- **data/:** Placeholder for the dataset file (spam_ham_dataset.csv).
-- **reports/:** Contains the project report (Spam_Detection_Report.md).
-- **README.md:** This file, providing an overview of the project.
+- `code/`: Contains the Jupyter Notebook (Spam_Detection.ipynb) with code for data cleaning, preprocessing, model development, and evaluation.
+- `data/`: Placeholder for the dataset file (spam_ham_dataset.csv).
+- `reports/`: Contains the project report (Spam_Detection_Report.md).
+- `README.md`: This file, providing an overview of the project.
 
 ## 🚀 Getting Started
 This project utilizes Google Colab for development and testing. To run the code and explore the analysis:
